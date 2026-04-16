@@ -1,5 +1,8 @@
 # Rethinking Molecular Dataset Splitting: From Benchmark Splits to a Tunable Split Framework
 
+W. Li  
+Fudan University
+
 ## Introduction
 
 In machine learning, data splitting is often treated as a routine technical step: divide the dataset into training, validation, and test sets, then evaluate the model on the test set. In molecular machine learning, however, the story is much less straightforward.
